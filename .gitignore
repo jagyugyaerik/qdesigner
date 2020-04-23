@@ -132,3 +132,5 @@ dmypy.json
 .idea/
 
 shared-volume/
+
+qdesigner/kanban.db
